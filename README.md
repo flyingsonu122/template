@@ -3,6 +3,11 @@
 
 ### [Live demo](https://romantic-site.netlify.app/)
 
+#### Contributing
+
+We do not accept Pull Requests in this repository.
+
+
 <br><br><br>
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
